@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatRoom.Client", "ChatRoom.Client\ChatRoom.Client.csproj", "{73A87206-185D-489D-923B-655CD811DFCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73A87206-185D-489D-923B-655CD811DFCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73A87206-185D-489D-923B-655CD811DFCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73A87206-185D-489D-923B-655CD811DFCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73A87206-185D-489D-923B-655CD811DFCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

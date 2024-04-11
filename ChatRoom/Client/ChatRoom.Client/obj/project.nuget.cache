@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "iTfznw4XmLq+tZAFunugGU7mJ06u9uaRmVYo1uo8fKWimp1vZKIVcmu5ZAb7V//X8AOp/7AZg0Cx61BXMMBcMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dyanakiev\\RiderProjects\\2324-sd-csharp-11a-introduction-to-sockets-dryanakiev\\ChatRoom\\Client\\ChatRoom.Client\\ChatRoom.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dyanakiev\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.1\\microsoft.netcore.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\dyanakiev\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.1\\microsoft.windowsdesktop.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\dyanakiev\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.1\\microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\dyanakiev\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.1\\microsoft.netcore.app.host.win-x64.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
