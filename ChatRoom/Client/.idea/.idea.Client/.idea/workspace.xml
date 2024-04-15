@@ -9,35 +9,7 @@
   <component name="ChangeListManager">
     <list default="true" id="609d7739-a98a-4e99-a66c-04f08e883d58" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/.idea.ChatRoom/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ChatRoom/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ChatRoom/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ChatRoom/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Client/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatRoom.Client/ChatRoom.Client.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatRoom.Client/ChatRoomClientSocket.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatRoom.Client/obj/ChatRoom.Client.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatRoom.Client/obj/ChatRoom.Client.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatRoom.Client/obj/ChatRoom.Client.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatRoom.Client/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatRoom.Client/obj/Debug/net8.0/ChatRoom.Client.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatRoom.Client/obj/Debug/net8.0/ChatRoom.Client.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatRoom.Client/obj/Debug/net8.0/ChatRoom.Client.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatRoom.Client/obj/Debug/net8.0/ChatRoom.Client.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatRoom.Client/obj/Debug/net8.0/ChatRoom.Client.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatRoom.Client/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatRoom.Client/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatRoom.Client/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatRoom.Client/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Client/.idea/.idea.Client/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Client/.idea/.idea.Client/.idea/projectSettingsUpdater.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Client/.idea/.idea.Client/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Client/.idea/.idea.Client/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Client/Client.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Server/.idea/.idea.Server/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Server/.idea/.idea.Server/.idea/projectSettingsUpdater.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Server/.idea/.idea.Server/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Server/.idea/.idea.Server/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Server/Server.sln" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Client/.idea/shelf/Uncommitted_changes_before_Update_at_4_11_2024_2_45_PM__Changes_.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,8 +84,17 @@
       <option name="presentableId" value="Default" />
       <updated>1712729886133</updated>
       <workItem from="1712729889189" duration="13000" />
-      <workItem from="1712834921629" duration="828000" />
+      <workItem from="1712834921629" duration="1229000" />
     </task>
+    <task id="LOCAL-00001" summary="Add client side socket">
+      <option name="closed" value="true" />
+      <created>1712835925001</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712835925001</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,5 +107,7 @@
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Add client side socket" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add client side socket" />
   </component>
 </project>
