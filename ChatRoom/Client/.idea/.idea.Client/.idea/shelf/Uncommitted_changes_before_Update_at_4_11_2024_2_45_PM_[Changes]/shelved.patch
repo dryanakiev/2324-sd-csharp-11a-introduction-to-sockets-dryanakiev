@@ -1,0 +1,23 @@
+Index: .idea/.idea.ChatRoom/.idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/.idea.ChatRoom/.idea/.gitignore b/.idea/.idea.ChatRoom/.idea/.gitignore
+new file mode 100644
+--- /dev/null	(date 1712834930262)
++++ b/.idea/.idea.ChatRoom/.idea/.gitignore	(date 1712834930262)
+@@ -0,0 +1,13 @@
++# Default ignored files
++/shelf/
++/workspace.xml
++# Rider ignored files
++/modules.xml
++/.idea.Client.iml
++/contentModel.xml
++/projectSettingsUpdater.xml
++# Editor-based HTTP Client requests
++/httpRequests/
++# Datasource local storage ignored files
++/dataSources/
++/dataSources.local.xml
